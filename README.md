@@ -11,9 +11,7 @@ some of the requirements for the BYU course titled CS 330. This repository is wr
 
 Project details can be found in the appropriate links below.
 
-##### Lab 15 - Haskell and Laziness
-
-<http://liftothers.org/dokuwiki/doku.php?id=cs330_f2016:lab15>
+[Lab 15 - Haskell and Laziness](http://liftothers.org/dokuwiki/doku.php?id=cs330_f2016:lab15)
 
 ### Contributors
 
